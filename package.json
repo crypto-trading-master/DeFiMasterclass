@@ -1,0 +1,23 @@
+{
+  "name": "defimasterclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-trading-master/DeFiMasterclass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypto-trading-master/DeFiMasterclass/issues"
+  },
+  "homepage": "https://github.com/crypto-trading-master/DeFiMasterclass#readme",
+  "dependencies": {
+    "solc": "^0.8.4",
+    "truffle": "^5.3.5"
+  }
+}
